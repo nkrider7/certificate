@@ -62,7 +62,7 @@ const generatePDF = async (name) => {
 
   var file = new File(
     [pdfBytes],
-    "Padhega India Subscription Certificate.pdf",
+    "Certificate.pdf",
     {
       type: "application/pdf;charset=utf-8",
     }
