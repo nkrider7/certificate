@@ -1,5 +1,5 @@
 :root {
-  --dark-color: #212121;
+  --dark-color: #a60000;
 }
 
 body {
@@ -23,7 +23,7 @@ h1 {
 }
 
 img {
-  border-radius: 150%;
+  border-radius: 15%;
   height: 220px;
 }
 
